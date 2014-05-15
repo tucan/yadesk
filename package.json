@@ -1,0 +1,22 @@
+{
+	"name": "yashop",
+	"version": "0.1.0-stub",
+	"description": "Shop for Yandex.Money",
+	"keywords": ["yandex", "money", "payment"],
+	"main": "./lib/index",
+	"licence": "MIT",
+	"author": {
+		"name": "Vladimir Andreev",
+		"email": "volodya@netfolder.ru"
+	},
+	"repository": {
+		"type": "git",
+		"url": "https://github.com/tucan/yashop.git"
+	},
+	"devDependencies": {
+		"coffee-script": "1.x"
+	},
+	"scripts": {
+		"prepublish": "./node_modules/.bin/coffee -c -b -o lib src"
+	}
+}
