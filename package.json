@@ -1,7 +1,7 @@
 {
 	"name": "yadesk",
 	"version": "0.1.1-stub",
-	"description": "Shop for Yandex.Money",
+	"description": "Library for Yandex.CashDesk service",
 	"keywords": ["yandex", "money", "payment"],
 	"main": "./lib/index",
 	"license": "MIT",

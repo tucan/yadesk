@@ -1,3 +1,3 @@
-# Yandex.Money
+# Yandex.CashDesk
 
-Shop server for Yandex.Money payment system.
+Shop side for Yandex.CashDesk service.
